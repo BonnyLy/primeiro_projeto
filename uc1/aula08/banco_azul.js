@@ -44,6 +44,6 @@ while(true) {
         }
     }
     else if(menu == "s") {
-            
+        let valor = parseFloat(prompt("O valor do saque é de: R$"))
     }   
 };
